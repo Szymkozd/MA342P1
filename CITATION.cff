@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MA342P1 Radiotherapy
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Zachary
+    family-names: Szymkowski
+  - given-names: Connor
+    family-names: Tasik
+  - given-names: Jonathan
+    family-names: Spychalski
+repository-code: 'https://github.com/Szymkozd/MA342P1.git'
+abstract: >-
+  MATLAB scripts that optimize a set of fluences in order to
+  apply a specific dose to a tumor while avoiding organs at
+  risk
+date-released: '2024-03-17'
